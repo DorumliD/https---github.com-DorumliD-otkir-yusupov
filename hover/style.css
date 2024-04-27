@@ -1,0 +1,37 @@
+body{
+    background-image: url(coffee-4k-widescreen-hd-wallpaper-preview.jpg);
+    background-size: 1550px 730px;
+}
+
+.cofe{
+    width: 500px;
+    margin: 0 auto;
+    display: flex; 
+}
+
+.info{
+    width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    opacity: 0.7;
+    text-align: center;
+}
+
+.cofe :nth-child(2){
+    width: 250px;
+    height: 250px;
+    background-image: url(kichik.jpg);
+    background-size: 250px 250px;
+}
+
+.cofe :nth-child(1){
+    width: 250px;
+    height: 250px;
+    background-color: #fff;
+    opacity: 0.8;
+    margin-right: 20px;
+    font-size: 60px;
+    text-align: center;
+}
+
+
